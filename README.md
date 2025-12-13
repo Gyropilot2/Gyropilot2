@@ -27,17 +27,12 @@ I am a **Technical Game Designer** with **6+ years** of experience in 3D pipelin
 
 ### 🛠️ Technical Skills
 
-**Core Engine:**
+**Programs:**
 * ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) **Unreal Engine** (Blueprints, UMG, Niagara, Chaos)
-* **Architecture:** OOP Principles, Interfaces, Actor Components, Event Dispatchers.
-
-**3D & Pipeline:**
 * ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) **Blender** (Modeling, Rigging, Animation, Shaders)
-* **VFX:** Niagara Simulation Stages, Material Logic.
-
-**Tools & Workflow:**
 * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) **Git / Source Control**
 * ![Jira](https://img.shields.io/badge/Asana-F06B07?style=flat&logo=asana&logoColor=white) **Asana / Task Tracking**
+* ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic) **VS Code** 
 
 **Core Competencies:**
 * **Blueprint Architecture:** I apply strict **Object-Oriented Programming (OOP)** principles to Visual Scripting. My code is encapsulated, modular, and self-documenting. I prioritize clean, readable logic that the entire team can understand and maintain.
