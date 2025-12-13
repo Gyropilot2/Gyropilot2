@@ -19,9 +19,9 @@ I describe myself as a **T-Shaped Developer**: while my core focus is on **Bluep
 | **Document** | **Description** |
 | :--- | :--- |
 | 📄 **[Technical Portfolio (PDF)](YOUR_GOOGLE_DRIVE_LINK_HERE)** | Documentation of my Systems, Math/Camera Logic, and Tools. |
-| 🎮 **[Forgotten Eras (Steam)](YOUR_STEAM_LINK_HERE)** | Playable Demo I helped ship as Tech Lead. |
-| 💼 **[LinkedIn Profile](YOUR_LINKEDIN_URL_HERE)** | Full work history and recommendations. |
-| 📧 **[Email Me](mailto:YOUR_EMAIL_HERE)** | Get in touch directly. |
+| 🎮 **[Forgotten Eras (Steam)](https://store.steampowered.com/app/3423760/Forgotten_Eras/)** | Playable Demo I helped ship as Tech Lead. |
+| 💼 **[LinkedIn Profile](https://www.linkedin.com/in/alison-krinski/)** | Full work history and recommendations. |
+| 📧 **[Email Me](mailto:alisonskrinski@gmail.com)** | Get in touch directly. |
 
 ---
 
