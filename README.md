@@ -1,39 +1,34 @@
 # Hi, I'm Alison Sanches Krinski
-### Technical Game Designer | Unreal Engine 5 Systems Architect
+### Technical Game Designer | Unreal Engine 5 | Gameplay Systems & Implementation
 📍 *Curitiba, Brazil (Remote)* | 🗣️ *English (Fluent) & Portuguese (Native)*
 
-# Hi, I'm Alison Sanches Krinski
-### Technical Game Designer | Unreal Engine 5 Systems Architect
-📍 *Curitiba, Brazil (Remote)* | 🗣️ *English (Fluent) & Portuguese (Native)*
 💬 **Discord:** `gyropilot`
-📧 **Email:**
+📧 **Email:** alisonskrinski@gmail.com
+
+**Quick Links:**
+* 📄 **[Download Resume (PDF)](https://drive.google.com/drive/folders/15HxNB2A7KWy2dLUearuRZGNfE2DYE2qX)**
+* 🎮 **[Forgotten Eras (Steam)](https://store.steampowered.com/app/3423760/Forgotten_Eras/)**
+* 💼 **[LinkedIn Profile](https://www.linkedin.com/in/alison-krinski)**
+
+---
+
+### 📑 Table of Contents
+* [🚀 About Me](#-about-me)
+* [🛠️ Technical Skills](#%EF%B8%8F-technical-skills)
+* [💼 Professional Experience](#-professional-experience)
+* [🧩 Technical Showcase (GIFs)](#-technical-showcase-gifs)
+
 ---
 
 ### 🚀 About Me
-I am a **Technical Game Designer** with **5+ years** of experience in 3D pipelines and **2+ years** of specialized development in Unreal Engine 5.
-
-I describe myself as a **T-Shaped Developer**: while my core focus is on **Blueprint Architecture** and **Object-Oriented Logic**, I possess a practical understanding of the entire asset pipeline—from Blender modeling to final engine implementation. I focus on building scalable systems and tools that prevent bottlenecks for the rest of the team.
-
-* **Current Role:** Technical Game Designer @ *Behind The Hump*
-* **Focus:** Gameplay Systems, Blueprint Architecture, Developer Tools.
+I am a **Technical Game Designer** with **6+ years** of experience in 3D pipelines and **2+ years** of specialized development in Unreal Engine. I focus on asset integration, clean system architecture, and creating efficient developer tools.
 
 ---
 
-### 📂 Portfolio & Links
-
-| **Document** | **Description** |
-| :--- | :--- |
-| 📄 **[Technical Portfolio (PDF)](https://drive.google.com/drive/folders/15HxNB2A7KWy2dLUearuRZGNfE2DYE2qX?usp=sharing)** | Documentation of my Systems, Math/Camera Logic, and Tools. |
-| 🎮 **[Forgotten Eras (Steam)](https://store.steampowered.com/app/3423760/Forgotten_Eras/)** | Playable Demo I helped ship as Tech Lead. |
-| 💼 **[LinkedIn Profile](https://www.linkedin.com/in/alison-krinski/)** | Full work history and recommendations. |
-| 📧 **[Email Me](mailto:alisonskrinski@gmail.com)** | Email me. |
-
----
-
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
 **Core Engine:**
-* ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) **Unreal Engine 5** (Blueprints, UMG, Niagara, Chaos)
+* ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) **Unreal Engine** (Blueprints, UMG, Niagara, Chaos)
 * **Architecture:** OOP Principles, Interfaces, Actor Components, Event Dispatchers.
 
 **3D & Pipeline:**
@@ -41,26 +36,58 @@ I describe myself as a **T-Shaped Developer**: while my core focus is on **Bluep
 * **VFX:** Niagara Simulation Stages, Material Logic.
 
 **Tools & Workflow:**
-* ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) **Git / GitHub**
+* ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) **Git / Source Control**
 * ![Jira](https://img.shields.io/badge/Asana-F06B07?style=flat&logo=asana&logoColor=white) **Asana / Task Tracking**
+
+**Core Competencies:**
+* **Blueprint Architecture:** I apply strict **Object-Oriented Programming (OOP)** principles to Visual Scripting. My code is encapsulated, modular, and self-documenting. I prioritize clean, readable logic that the entire team can understand and maintain.
+* **System Implementation:** I specialize in architecting functional gameplay frameworks. I focus on logic and data structures, creating systems that are error-resistant and reduce technical debt.
+* **3D Background:** Having worked with 3D modeling, animation, and the technical challenges inherent to the pipeline, I possess the experience to find the best approach for asset implementation and performance optimization.
+* **Technical Art & Tools:** I build procedural tools to assist the Level Design process. I am also proficient in **Niagara VFX System (including Simulation Stages)** and Material logic for VFX behavior implementation.
+* **Pipeline Stability:** I act as Technical QA for the team. This involves debugging packaging failures, fixing asset animation incompatibilities, and identifying gameplay soft-locks to ensure the build remains at a high quality standard.
+* **Technical Foresight:** I possess a strong intuition for identifying structural bottlenecks, logic conflicts, and gameplay issues before implementation begins. I anticipate how systems will scale, preventing technical debt and costly refactors.
+
+**Additional Skills:**
+* **Math & Logic:** Strong proficiency in math operations and code logic for creating elegant and efficient solutions.
+* **AI Design:** Experienced with BehaviorTrees, EQS, and UtilityAI logic.
+* **Communication:** Transparent reporting of progress, limitations, and a willingness to listen to expert feedback.
+* **Workflow:** Disciplined remote worker with a focus on clear documentation, Git version control, and Asana task tracking.
 
 ---
 
-### 🧩 Featured Technical Work
+### 💼 Professional Experience
 
-**1. Modular Enemy Architecture (OOP)**
-> Designed a polymorphic `BP_Mushroom` framework allowing designers to create 8+ enemy variants via boolean toggles, utilizing strict inheritance to prevent code duplication.
->
-> ![Mushroom System Demo](LINK_TO_YOUR_GIF_HERE)
+#### **Technical Game Designer @ [Behind The Hump](https://www.linkedin.com/company/behind-the-hump/)**
+*(August 2024 – Present)*
+> Key developer for **[Forgotten Eras](https://store.steampowered.com/app/3423760/Forgotten_Eras/)**, a playable demo released on Steam.
 
-**2. Weighted Camera System**
-> Engineered a custom Camera Manager using 3D vector math (Dot Products/Distance Checks) to interpolate between multiple "Point of Interest" volumes dynamically.
->
-> ![Camera System Demo](LINK_TO_YOUR_GIF_HERE)
+* **Gameplay Programming:** Engineered clear, encapsulated Blueprint systems for Single-Player gameplay, utilizing Interfaces and Actor Components to ensure code modularity and scalability.
+* **Technical Design:** Created procedural tools using Instanced Static Meshes and Chaos Destruction to assist the Level Design process. Created VFX and dynamic materials. Implemented Clothing Physics and resolved mesh and animation incompatibility issues.
+* **Technical Support & QA:** Diagnosed and resolved game-breaking bugs, gameplay softlocks, and implemented user-experience adjustments.
+* **Documentation & Workflow:** Maintained comprehensive technical documentation for all implemented tools and systems. Ensured smooth remote collaboration via English voice chat meetings and organized task tracking (Asana).
 
-**3. Procedural Design Tools**
-> Built construction scripts for Instanced Static Meshes (Fences, Roads) and Spline-based actors to accelerate the Level Design workflow.
->
-> ![Procedural Tool Demo](LINK_TO_YOUR_GIF_HERE)
+#### **Freelance 3D Generalist & Gameplay Developer**
+*(June 2019 – Present)*
+
+* **3D Pipeline Experience:** Studied and practiced the full asset pipeline in Blender—covering modeling, rigging, animation, and shaders. Gained a practical understanding of the difference between rendering vs. game-ready assets.
+* **Modding:** Tackled unique technical issues across various games (e.g., Kenshi, Project Zomboid). Overcame limitations of having little to no modding support, requiring creative solutions and reverse-engineering to extract assets and inject code.
+* **Game Design Documents (GDD):** Wrote detailed Game Design Documents for personal projects. Focused on breaking down mechanics, defining specific control schemes, and mapping out object communication to understand scope and limitations before coding.
+* **Unreal Engine Development:** Explored many Unreal Engine features like Behavior Trees, Widgets, Niagara VFX System, and Animation Blueprints. Learned Object Oriented Programming fundamentals and their Visual Scripting implementation methods.
+
+---
+
+### 🧩 Technical Showcase (GIFs)
+
+#### **1. Modular Enemy Architecture (OOP)**
+Designed a polymorphic `BP_Mushroom` framework allowing designers to create 8+ enemy variants via boolean toggles.
+> *[Place your GIF here later: `![AltText](LinkToGif)`]*
+
+#### **2. Weighted Camera System**
+Engineered a custom Camera Manager using 3D vector math (Dot Products/Distance Checks) to interpolate between multiple "Point of Interest" volumes.
+> *[Place your GIF here later: `![AltText](LinkToGif)`]*
+
+#### **3. Procedural Design Tools**
+Built construction scripts for Instanced Static Meshes (Fences, Roads) and Spline-based actors to accelerate the Level Design workflow.
+> *[Place your GIF here later: `![AltText](LinkToGif)`]*
 
 ---
