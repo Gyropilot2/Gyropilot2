@@ -1,6 +1,10 @@
 # Hi, I'm Alison Sanches Krinski
 ### Technical Game Designer | Unreal Engine 5 Systems Architect
 📍 *Curitiba, Brazil (Remote)* | 🗣️ *English (Fluent) & Portuguese (Native)*
+
+# Hi, I'm Alison Sanches Krinski
+### Technical Game Designer | Unreal Engine 5 Systems Architect
+📍 *Curitiba, Brazil (Remote)* | 🗣️ *English (Fluent) & Portuguese (Native)*
 💬 **Discord:** `gyropilot`
 📧 **Email:**
 ---
