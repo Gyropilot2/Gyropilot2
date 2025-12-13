@@ -1,7 +1,8 @@
-# Hello World, I'm Alison Sanches Krinski
+# Hi, I'm Alison Sanches Krinski
 ### Technical Game Designer | Unreal Engine 5 Systems Architect
 📍 *Curitiba, Brazil (Remote)* | 🗣️ *English (Fluent) & Portuguese (Native)*
-
+💬 **Discord:** `gyropilot`
+📧 **Email:**
 ---
 
 ### 🚀 About Me
@@ -18,10 +19,10 @@ I describe myself as a **T-Shaped Developer**: while my core focus is on **Bluep
 
 | **Document** | **Description** |
 | :--- | :--- |
-| 📄 **[Technical Portfolio (PDF)](YOUR_GOOGLE_DRIVE_LINK_HERE)** | Documentation of my Systems, Math/Camera Logic, and Tools. |
+| 📄 **[Technical Portfolio (PDF)](https://drive.google.com/drive/folders/15HxNB2A7KWy2dLUearuRZGNfE2DYE2qX?usp=sharing)** | Documentation of my Systems, Math/Camera Logic, and Tools. |
 | 🎮 **[Forgotten Eras (Steam)](https://store.steampowered.com/app/3423760/Forgotten_Eras/)** | Playable Demo I helped ship as Tech Lead. |
 | 💼 **[LinkedIn Profile](https://www.linkedin.com/in/alison-krinski/)** | Full work history and recommendations. |
-| 📧 **[Email Me](mailto:alisonskrinski@gmail.com)** | Get in touch directly. |
+| 📧 **[Email Me](mailto:alisonskrinski@gmail.com)** | Email me. |
 
 ---
 
@@ -45,11 +46,17 @@ I describe myself as a **T-Shaped Developer**: while my core focus is on **Bluep
 
 **1. Modular Enemy Architecture (OOP)**
 > Designed a polymorphic `BP_Mushroom` framework allowing designers to create 8+ enemy variants via boolean toggles, utilizing strict inheritance to prevent code duplication.
+>
+> ![Mushroom System Demo](LINK_TO_YOUR_GIF_HERE)
 
 **2. Weighted Camera System**
 > Engineered a custom Camera Manager using 3D vector math (Dot Products/Distance Checks) to interpolate between multiple "Point of Interest" volumes dynamically.
+>
+> ![Camera System Demo](LINK_TO_YOUR_GIF_HERE)
 
 **3. Procedural Design Tools**
 > Built construction scripts for Instanced Static Meshes (Fences, Roads) and Spline-based actors to accelerate the Level Design workflow.
+>
+> ![Procedural Tool Demo](LINK_TO_YOUR_GIF_HERE)
 
 ---
