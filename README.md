@@ -86,4 +86,3 @@ Built construction scripts for Instanced Static Meshes (Fences, Roads) and Splin
 > *[Place your GIF here later: `![AltText](LinkToGif)`]*
 
 ---
-![Gyropilot2's Metrics](https://github.com/Gyropilot2/Gyropilot2/blob/main/github-metrics.svg)
