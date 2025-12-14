@@ -86,3 +86,4 @@ Built construction scripts for Instanced Static Meshes (Fences, Roads) and Splin
 > *[Place your GIF here later: `![AltText](LinkToGif)`]*
 
 ---
+![Your Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&include_all_commits=true&count_private=true&theme=dark)
