@@ -73,16 +73,72 @@ I am a **Technical Game Designer** with **6+ years** of experience in 3D pipelin
 
 ### 🧩 Technical Showcase (GIFs)
 
-#### **1. Modular Enemy Architecture (OOP)**
-Designed a polymorphic `BP_Mushroom` framework allowing designers to create 8+ enemy variants via boolean toggles.
-> *[Place your GIF here later: `![AltText](LinkToGif)`]*
+## 🛠️ Unreal Engine Systems & Tools
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>1. Tactical AI Flanking System (EQS)</h4>
+      <p>Implemented using Behavior Trees and Environment Query System (EQS). Agents dynamically calculate flanking vectors, line-of-sight, and cover considerations to encircle opponents in real-time.</p>
+      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/EQS%20Sample.gif?raw=true" width="100%" alt="EQS AI">
+    </td>
+    <td width="50%" valign="top">
+      <h4>2. Modular Building System</h4>
+      <p>State-driven UI transitioning seamlessly between Battle/Build modes. Features ghost placement with collision validation, widget-based selection, and a history stack for Undo/Cancel operations.</p>
+      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/Building%20System%20Sample.gif?raw=true" width="100%" alt="Building System">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>3. Spline-Based Procedural Track Tool</h4>
+      <p>Editor Utility for Level Designers to lay complex rail networks using Spline Components and Instanced Static Meshes (ISM). Includes automated minecart spawning logic that adheres to track curvature and velocity.</p>
+      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/Spline%20Tool%20Sample.gif?raw=true" width="100%" alt="Spline Tool">
+    </td>
+    <td width="50%" valign="top">
+      <h4>4. Dynamic Camera Manager</h4>
+      <p>Custom camera system featuring velocity-adaptive interpolation and predictive occlusion handling. Uses sphere traces to detect walls and re-frame the player from a sideways perspective without clipping.</p>
+      <img src="PLACEHOLDER_LINK_HERE" width="100%" alt="Camera System">
+    </td>
+  </tr>
+</table>
 
-#### **2. Weighted Camera System**
-Engineered a custom Camera Manager using 3D vector math (Dot Products/Distance Checks) to interpolate between multiple "Point of Interest" volumes.
-> *[Place your GIF here later: `![AltText](LinkToGif)`]*
+## 🎨 Tech Art & VFX
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>1. GPU-Accelerated Cellular Automata</h4>
+      <p>Simulates Conway's Game of Life entirely on the GPU using Niagara Simulation Stages. Demonstrates performant read/write operations on Grid2D collections to handle neighbor logic in parallel.</p>
+      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/GameOfLife%20Sample.gif?raw=true" width="100%" alt="Niagara Game of Life">
+    </td>
+    <td width="50%" valign="top">
+      <h4>2. Seamless Shapeshifting VFX</h4>
+      <p>Real-time character transformation logic. Synchronizes skeletal mesh visibility swaps with heavy particle occlusion to conceal the transition frame, creating a fluid "morphing" effect.</p>
+      <img src="PLACEHOLDER_LINK_HERE" width="100%" alt="Shapeshifting VFX">
+    </td>
+  </tr>
+</table>
 
-#### **3. Procedural Design Tools**
-Built construction scripts for Instanced Static Meshes (Fences, Roads) and Spline-based actors to accelerate the Level Design workflow.
-> *[Place your GIF here later: `![AltText](LinkToGif)`]*
+## 🧊 3D Modeling & Additional Works
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>⚙️ Mechanical Engineering</h4>
+      <p><b>Functional Prosthetic Assembly</b><br>
+      High-fidelity, print-ready mechanical model designed with accurate joint constraints and hierarchy. Commissioned engineering work demonstrating precision modeling.</p>
+      <img src="PLACEHOLDER_LINK_HERE" width="100%" alt="Prosthetic Arm">
+    </td>
+    <td width="33%" valign="top">
+      <h4>🔧 Reverse Engineering</h4>
+      <p><b>Asset Injection (Kenshi/Ogre)</b><br>
+      Overcame undocumented restrictions in the Ogre engine to inject custom skeletal meshes. Solved material and rig incompatibilities to implement modding support where none natively existed.</p>
+      <img src="PLACEHOLDER_LINK_HERE" width="100%" alt="Kenshi Modding">
+    </td>
+    <td width="33%" valign="top">
+      <h4>🏎️ Technical Animation</h4>
+      <p><b>"Tron-Style" Loop</b><br>
+      Seamless, game-ready animation loop featuring retro-futuristic visuals. Demonstrates physics-based vehicle motion and wireframe aesthetics indistinguishable from real-time gameplay.</p>
+      <img src="PLACEHOLDER_LINK_HERE" width="100%" alt="Blender Render">
+    </td>
+  </tr>
+</table>
 
 ---
