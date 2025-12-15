@@ -133,7 +133,7 @@ I am a **Technical Game Designer** with **6+ years** of experience in 3D pipelin
       <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/Kenshi%20Modding%20Sample.gif?raw=true" width="100%" alt="Kenshi Modding">
     </td>
     <td width="33%" valign="top">
-      <h4>📺 Visual Identity</h4>
+      <h4>📺 Render and Shaders pipeline in Blender</h4>
       <p><b>Vaporwave Animation Loop</b><br>
       High-fidelity looped animation focusing on retro-futuristic aesthetics. Demonstrates a strong grasp of composition, lighting, and style consistency.</p>
       <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/Vaporwave%20Animation%20Sample.gif?raw=true" width="100%" alt="Blender Render">
