@@ -96,7 +96,7 @@ I am a **Technical Game Designer** with **6+ years** of experience in 3D pipelin
     <td width="50%" valign="top">
       <h4>4. Dynamic Camera Manager</h4>
       <p>Custom camera system featuring velocity-adaptive interpolation and predictive occlusion handling. Uses sphere traces to detect walls and re-frame the player from a sideways perspective without clipping.</p>
-      <img src="PLACEHOLDER_LINK_HERE" width="100%" alt="Camera System">
+      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/CameraManager%20Sample.gif?raw=true" width="100%" alt="Camera System">
     </td>
   </tr>
 </table>
@@ -124,7 +124,7 @@ I am a **Technical Game Designer** with **6+ years** of experience in 3D pipelin
       <h4>⚙️ Mechanical Engineering</h4>
       <p><b>Functional Prosthetic Assembly</b><br>
       High-fidelity, print-ready mechanical model designed with accurate joint constraints and hierarchy. Commissioned engineering work demonstrating precision modeling.</p>
-      <img src="PLACEHOLDER_LINK_HERE" width="100%" alt="Prosthetic Arm">
+      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/Prosthetic%20Sample.gif?raw=true" width="100%" alt="Prosthetic Arm">
     </td>
     <td width="33%" valign="top">
       <h4>🔧 Reverse Engineering</h4>
@@ -136,7 +136,7 @@ I am a **Technical Game Designer** with **6+ years** of experience in 3D pipelin
       <h4>🏎️ Technical Animation</h4>
       <p><b>"Tron-Style" Loop</b><br>
       Seamless, game-ready animation loop featuring retro-futuristic visuals. Demonstrates physics-based vehicle motion and wireframe aesthetics indistinguishable from real-time gameplay.</p>
-      <img src="PLACEHOLDER_LINK_HERE" width="100%" alt="Blender Render">
+      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/Vaporwave%20Animation%20Sample.gif?raw=true" width="100%" alt="Blender Render">
     </td>
   </tr>
 </table>
