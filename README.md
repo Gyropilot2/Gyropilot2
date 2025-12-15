@@ -83,19 +83,19 @@ I am a **Technical Game Designer** with **6+ years** of experience in 3D pipelin
     </td>
     <td width="50%" valign="top">
       <h4>2. Modular Building System</h4>
-      <p>State-driven UI transitioning seamlessly between Battle/Build modes. Features ghost placement with collision validation, widget-based selection, and a history stack for Undo/Cancel operations.</p>
+      <p>A State-Machine architecture driven centrally by the Main Widget handling the logic flow for mode transitions and making sure every object is valid. A child ConstructionMode Widget manages ghost actor collision validation and the Undo/Redo stack.</p>
       <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/Building%20System%20Sample.gif?raw=true" width="100%" alt="Building System">
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>3. Spline-Based Procedural Track Tool</h4>
-      <p>Editor Utility for Level Designers to lay complex rail networks using Spline Components and Instanced Static Meshes (ISM). Includes automated minecart spawning logic that adheres to track curvature and velocity.</p>
+      <h4>3. Procedural Spline Tools</h4>
+      <p>Editor Utility for rapid Level Design. Uses Splines to drive procedural Instanced Static Mesh (ISM) placement. Includes a custom minecart spawner with fully exposed parameters for quick iteration.</p>
       <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/Spline%20Tool%20Sample.gif?raw=true" width="100%" alt="Spline Tool">
     </td>
     <td width="50%" valign="top">
-      <h4>4. Dynamic Camera Manager</h4>
-      <p>Custom camera system featuring velocity-adaptive interpolation and predictive occlusion handling. Uses sphere traces to detect walls and re-frame the player from a sideways perspective without clipping.</p>
+      <h4>4. Universal Camera Manager</h4>
+      <p>A modular <code>APlayerCameraManager</code> extension built with strict OOP encapsulation to ensure universal compatibility across different projects. Features predictive wall-trace occlusion, velocity smoothing, and weighted interest interpolation.</p>
       <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/CameraManager%20Sample.gif?raw=true" width="100%" alt="Camera System">
     </td>
   </tr>
@@ -106,12 +106,12 @@ I am a **Technical Game Designer** with **6+ years** of experience in 3D pipelin
   <tr>
     <td width="50%" valign="top">
       <h4>1. GPU-Accelerated Cellular Automata</h4>
-      <p>Simulates Conway's Game of Life entirely on the GPU using Niagara Simulation Stages. Demonstrates performant read/write operations on Grid2D collections to handle neighbor logic in parallel.</p>
+      <p>Simulates Conway's Game of Life entirely on the GPU using Niagara Simulation Stages. Demonstrates performant read/write operations on Grid2D collections.</p>
       <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/GameOfLife%20Sample.gif?raw=true" width="100%" alt="Niagara Game of Life">
     </td>
     <td width="50%" valign="top">
-      <h4>2. Directional Combat VFX (Ice)</h4>
-      <p>A "Cone of Cold" style attack effect created in Niagara. Features synchronized burst timing, ground-aligned propagation, and dissipative frost elements designed to convey gameplay hitboxes clearly.</p>
+      <h4>2. Gameplay VFX Showcase</h4>
+      <p>A Niagara attack sample demonstrating particle timing, ground alignment, and impact feedback. Designed to be visually distinct and readable for gameplay purposes.</p>
       <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/VFX%20Sample.gif?raw=true" width="100%" alt="Ice Attack VFX">
     </td>
   </tr>
@@ -123,19 +123,19 @@ I am a **Technical Game Designer** with **6+ years** of experience in 3D pipelin
     <td width="33%" valign="top">
       <h4>⚙️ Mechanical Engineering</h4>
       <p><b>Functional Prosthetic Assembly</b><br>
-      High-fidelity, print-ready mechanical model designed with accurate joint constraints and hierarchy. Commissioned engineering work demonstrating precision modeling.</p>
+      High-fidelity, print-ready mechanical model designed with accurate joint constraints. Commissioned engineering work.</p>
       <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/Prosthetic%20Sample.gif?raw=true" width="100%" alt="Prosthetic Arm">
     </td>
     <td width="33%" valign="top">
-      <h4>🔧 Reverse Engineering</h4>
-      <p><b>Asset Injection (Kenshi/Ogre)</b><br>
-      Overcame undocumented restrictions in the Ogre engine to inject custom skeletal meshes. Solved material and rig incompatibilities to implement modding support where none natively existed.</p>
-      <img src="PLACEHOLDER_LINK_HERE" width="100%" alt="Kenshi Modding">
+      <h4>🔧 Advanced Modding</h4>
+      <p><b>Legacy Engine Injection</b><br>
+      Overcame the lack of documentation and rigid restrictions in engines like Kenshi (Ogre) and Zomboid (Java). Solved invisible meshes, broken hierarchies, and file format issues without official tools.</p>
+      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/Kenshi%20Modding%20Sample.gif?raw=true" width="100%" alt="Kenshi Modding">
     </td>
     <td width="33%" valign="top">
-      <h4>🏎️ Technical Animation</h4>
-      <p><b>"Tron-Style" Loop</b><br>
-      Seamless, game-ready animation loop featuring retro-futuristic visuals. Demonstrates physics-based vehicle motion and wireframe aesthetics indistinguishable from real-time gameplay.</p>
+      <h4>📺 Visual Identity</h4>
+      <p><b>Vaporwave Animation Loop</b><br>
+      High-fidelity looped animation focusing on retro-futuristic aesthetics. Demonstrates a strong grasp of composition, lighting, and style consistency.</p>
       <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/Vaporwave%20Animation%20Sample.gif?raw=true" width="100%" alt="Blender Render">
     </td>
   </tr>
