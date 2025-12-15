@@ -110,9 +110,9 @@ I am a **Technical Game Designer** with **6+ years** of experience in 3D pipelin
       <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/GameOfLife%20Sample.gif?raw=true" width="100%" alt="Niagara Game of Life">
     </td>
     <td width="50%" valign="top">
-      <h4>2. Seamless Shapeshifting VFX</h4>
-      <p>Real-time character transformation logic. Synchronizes skeletal mesh visibility swaps with heavy particle occlusion to conceal the transition frame, creating a fluid "morphing" effect.</p>
-      <img src="PLACEHOLDER_LINK_HERE" width="100%" alt="Shapeshifting VFX">
+      <h4>2. Directional Combat VFX (Ice)</h4>
+      <p>A "Cone of Cold" style attack effect created in Niagara. Features synchronized burst timing, ground-aligned propagation, and dissipative frost elements designed to convey gameplay hitboxes clearly.</p>
+      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/VFX%20Sample.gif?raw=true" width="100%" alt="Ice Attack VFX">
     </td>
   </tr>
 </table>
