@@ -73,7 +73,7 @@ I am a **Technical Game Designer** with **6+ years** of experience in 3D pipelin
 
 ### 🧩 Technical Showcase (GIFs)
 
-## 🛠️ Unreal Engine Systems & Tools
+#### 🛠️ Unreal Engine Systems & Tools
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -101,7 +101,7 @@ I am a **Technical Game Designer** with **6+ years** of experience in 3D pipelin
   </tr>
 </table>
 
-## 🎨 Tech Art & VFX
+#### 🎨 Tech Art & VFX
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -117,7 +117,7 @@ I am a **Technical Game Designer** with **6+ years** of experience in 3D pipelin
   </tr>
 </table>
 
-## 🧊 3D Modeling & Additional Works
+#### 🧊 3D Modeling & Additional Works
 <table>
   <tr>
     <td width="33%" valign="top">
