@@ -6,7 +6,7 @@
 📧 **Email:** alisonskrinski@gmail.com
 
 **Quick Links:**
-* 📄 **[Download Resume (PDF)](https://drive.google.com/drive/folders/15HxNB2A7KWy2dLUearuRZGNfE2DYE2qX)**
+* 📄 **[Download Resume (PDF)](https://drive.google.com/file/d/15xx59ejMVizWvbhja1EAcntOXQZp-F5l/view?usp=sharing)**
 * 🎮 **[Forgotten Eras (Steam)](https://store.steampowered.com/app/3423760/Forgotten_Eras/)**
 * 💼 **[LinkedIn Profile](https://www.linkedin.com/in/alison-krinski)**
 
