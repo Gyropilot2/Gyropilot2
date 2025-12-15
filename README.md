@@ -127,9 +127,9 @@ I am a **Technical Game Designer** with **6+ years** of experience in 3D pipelin
       <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/Prosthetic%20Sample.gif?raw=true" width="100%" alt="Prosthetic Arm">
     </td>
     <td width="33%" valign="top">
-      <h4>🔧 Advanced Modding</h4>
+      <h4>🔧 Modding</h4>
       <p><b>Legacy Engine Injection</b><br>
-      Overcame the lack of documentation and rigid restrictions in engines like Kenshi (Ogre) and Zomboid (Java). Solved invisible meshes, broken hierarchies, and file format issues without official tools.</p>
+      Overcame the lack of documentation and rigid restrictions in engines like Ogre and Java. Solved invisible meshes, broken hierarchies, and file format issues with little to no official modding support.</p>
       <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/Kenshi%20Modding%20Sample.gif?raw=true" width="100%" alt="Kenshi Modding">
     </td>
     <td width="33%" valign="top">
