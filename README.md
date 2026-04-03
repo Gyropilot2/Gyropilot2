@@ -1,144 +1,112 @@
-# Hi, I'm Alison Sanches Krinski
-### Technical Game Designer | Unreal Engine 5 | Gameplay Systems & Implementation
-📍 *Curitiba, Brazil (Remote)* | 🗣️ *English (Fluent) & Portuguese (Native)*
+# Alison Sanches Krinski
+### Software Engineer | Systems & AI Tooling
 
-💬 **Discord:** `gyropilot`
-📧 **Email:** alisonskrinski@gmail.com
+Curitiba, Brazil (Remote) | English (Fluent) | Portuguese (Native)
 
-**Quick Links:**
-* 📄 **[Download Resume (PDF)](https://drive.google.com/file/d/15xx59ejMVizWvbhja1EAcntOXQZp-F5l/view?usp=sharing)**
-* 🎮 **[Forgotten Eras (Steam)](https://store.steampowered.com/app/3423760/Forgotten_Eras/)**
-* 💼 **[LinkedIn Profile](https://www.linkedin.com/in/alison-krinski)**
+**Email:** alisonskrinski@gmail.com
 
----
+**Quick Links**  
+[Resume](https://drive.google.com/file/d/15xx59ejMVizWvbhja1EAcntOXQZp-F5l/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/alison-krinski) | [LoRA Evaluation Project](https://github.com/Gyropilot2/lora-evaluation-project) | [Forgotten Eras on Steam](https://store.steampowered.com/app/3423760/Forgotten_Eras/)
 
-### 📑 Table of Contents
-* [🚀 About Me](#-about-me)
-* [🛠️ Technical Skills](#%EF%B8%8F-technical-skills)
-* [💼 Professional Experience](#-professional-experience)
-* [🧩 Technical Showcase (GIFs)](#-technical-showcase-gifs)
+I design systems with a strong sense for structure, hidden constraints, and downstream consequences. I am good at understanding what someone is actually asking for, stress-testing the assumptions inside that request, and turning vague requirements into something concrete, logical, and workable.
+
+I care about rigor, clarity, and good coding practices. I like explicit logic, maintainable structure, and systems that hold up when reality gets messy. AI-assisted development is part of my workflow, but the value I bring is judgment: taste, far-sight, problem framing, and the ability to carry an idea from a fuzzy need to a real implementation. I like work that starts messy and becomes clear once the right system exists.
+
+Most of my work fits around internal tools, workflow infrastructure, evaluation systems, automation, and system-heavy feature work that needs both design sense and technical discipline. I am especially strong in architecture-heavy work where someone needs clear logic, strong boundaries, operator-friendly tooling, and a practical path from requirement to implementation.
 
 ---
 
-### 🚀 About Me
-I am a **Technical Game Designer** with **6+ years** of experience in 3D pipelines and **2+ years** of specialized development in Unreal Engine. I focus on asset integration, clean system architecture, and creating efficient developer tools.
+## What I Bring
+
+- I can ingest requirements quickly, spot bad assumptions early, and see where a design will break before it does.
+- I think in systems: dependencies, data flow, edge cases, operator clarity, and long-term maintainability.
+- I am rigorous about logic, structure, and code quality.
+- I use AI for leverage, but the human value is still mine: judgment, direction, taste, and problem-solving.
 
 ---
 
-### 🛠️ Technical Skills
+## Experience
 
-**Programs:**
-* ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) **Unreal Engine** (Blueprints, UMG, Niagara, Chaos)
-* ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) **Blender** (Modeling, Rigging, Animation, Shaders)
-* ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) **Git / Source Control**
-* ![Jira](https://img.shields.io/badge/Asana-F06B07?style=flat&logo=asana&logoColor=white) **Asana / Task Tracking**
-* ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic) **VS Code** 
+### Technical Game Designer @ [Behind The Hump](https://www.linkedin.com/company/behind-the-hump/)
+*(August 2024 - Present)*
 
-**Core Competencies:**
-* **Blueprint Architecture:** I apply strict **Object-Oriented Programming (OOP)** principles to Visual Scripting. My code is encapsulated, modular, and self-documenting. I prioritize clean, readable logic that the entire team can understand and maintain.
-* **System Implementation:** I specialize in architecting functional gameplay frameworks. I focus on logic and data structures, creating systems that are error-resistant and reduce technical debt.
-* **3D Background:** Having worked with 3D modeling, animation, and the technical challenges inherent to the pipeline, I possess the experience to find the best approach for asset implementation and performance optimization.
-* **Technical Art & Tools:** I build procedural tools to assist the Level Design process. I am also proficient in **Niagara VFX System (including Simulation Stages)** and Material logic for VFX behavior implementation.
-* **Pipeline Stability:** I act as Technical QA for the team. This involves debugging packaging failures, fixing asset animation incompatibilities, and identifying gameplay soft-locks to ensure the build remains at a high quality standard.
-* **Technical Foresight:** I possess a strong intuition for identifying structural bottlenecks, logic conflicts, and gameplay issues before implementation begins. I anticipate how systems will scale, preventing technical debt and costly refactors.
+Key contributor on the playable demo for **[Forgotten Eras](https://store.steampowered.com/app/3423760/Forgotten_Eras/)**.
 
-**Additional Skills:**
-* **Math & Logic:** Strong proficiency in math operations and code logic for creating elegant and efficient solutions.
-* **AI Design:** Experienced with BehaviorTrees, EQS, and UtilityAI logic.
-* **Communication:** Transparent reporting of progress, limitations, and a willingness to listen to expert feedback.
-* **Workflow:** Disciplined remote worker with a focus on clear documentation, Git version control, and Asana task tracking.
+- Designed and implemented modular gameplay systems, interaction logic, and support tooling in Unreal Engine.
+- Translated design needs into clear, maintainable system structures using Interfaces, Actor Components, and reusable logic.
+- Caught gameplay softlocks, pipeline failures, and implementation risks early enough to keep the build stable.
+- Worked remotely with documentation, task tracking, technical ownership, and cross-discipline communication.
+
+### Freelance Technical Builder
+*(June 2019 - Present)*
+
+- Worked across 3D pipelines, technical planning, modding, reverse-engineering, and system-heavy personal projects.
+- Built a habit of breaking ideas down into requirements, limitations, object relationships, and implementation risk before building.
+- Solved problems in messy environments where tooling, documentation, or support were limited.
 
 ---
 
-### 💼 Professional Experience
+## Image-Generation AI Evaluation System
 
-#### **Technical Game Designer @ [Behind The Hump](https://www.linkedin.com/company/behind-the-hump/)**
-*(August 2024 – Present)*
-> Key developer for **[Forgotten Eras](https://store.steampowered.com/app/3423760/Forgotten_Eras/)**, a playable demo released on Steam.
+**[LoRA Evaluation Project](https://github.com/Gyropilot2/lora-evaluation-project)**  
+An end-to-end system I authored for inspecting how Low-Rank Adaptation (LoRA) models affect diffusion-based image-generation workflows.
 
-* **Gameplay Programming:** Engineered clear, encapsulated Blueprint systems for Single-Player gameplay, utilizing Interfaces and Actor Components to ensure code modularity and scalability.
-* **Technical Design:** Created procedural tools using Instanced Static Meshes and Chaos Destruction to assist the Level Design process. Created VFX and dynamic materials. Implemented Clothing Physics and resolved mesh and animation incompatibility issues.
-* **Technical Support & QA:** Diagnosed and resolved game-breaking bugs, gameplay softlocks, and implemented user-experience adjustments.
-* **Documentation & Workflow:** Maintained comprehensive technical documentation for all implemented tools and systems. Ensured smooth remote collaboration via English voice chat meetings and organized task tracking (Asana).
+I built this after noticing a real problem in image-generation AI: most LoRA evaluation is still done by vibes. People generate a few images, guess what changed, and hope the answer is meaningful. I wanted a system that could store evidence, compare controlled runs, and make the behavior inspectable later.
 
-#### **Freelance 3D Generalist & Gameplay Developer**
-*(June 2019 – Present)*
+That meant learning the domain well enough to work with LoRAs, diffusion workflows, ComfyUI, and the practical realities of evaluating deep-learning systems without pretending to be doing AI research.
 
-* **3D Pipeline Experience:** Studied and practiced the full asset pipeline in Blender—covering modeling, rigging, animation, and shaders. Gained a practical understanding of the difference between rendering vs. game-ready assets.
-* **Modding:** Tackled unique technical issues across various games (e.g., Kenshi, Project Zomboid). Overcame limitations of having little to no modding support, requiring creative solutions and reverse-engineering to extract assets and inject code.
-* **Game Design Documents (GDD):** Wrote detailed Game Design Documents for personal projects. Focused on breaking down mechanics, defining specific control schemes, and mapping out object communication to understand scope and limitations before coding.
-* **Unreal Engine Development:** Explored many Unreal Engine features like Behavior Trees, Widgets, Niagara VFX System, and Animation Blueprints. Learned Object Oriented Programming fundamentals and their Visual Scripting implementation methods.
+![LoRA Evaluation Project review view](LoRA%20Evaluation%20Project%20Sample.png)
+
+_Baseline vs LoRA comparison inside the review surface._
+
+- Designed the architecture around extraction, validation, persistence, review assembly, and operator-facing presentation.
+- Built a pipeline spanning ComfyUI ingestion, validation gates, SQLite-backed evidence storage, diagnostics, and a local review app.
+- Treated the whole thing as an instrument: explicit boundaries, inspectable evidence, reproducibility, and truth over guesswork.
+- Took it from the original problem all the way to a working, usable system authored end to end by me.
+
+This is the strongest proof of how I work: I see the design problem, I learn what I need to learn, I think through the edge cases, and I build the system that solves it.
 
 ---
 
-### 🧩 Technical Showcase (GIFs)
+## The Same Pattern In Unreal
 
-#### 🛠️ Unreal Engine Systems & Tools
+Before this project, I was already solving the same class of problems inside game development: designing systems, building tools, structuring logic, and making workflows easier to operate.
+
+- **Modular Building System:** state-driven placement workflow with validation, mode handling, and undo/redo logic.
+- **Universal Camera Manager:** reusable camera behavior with predictive occlusion handling, smoothing, and modular control.
+- **Procedural Spline Tools:** editor tooling for faster environment assembly and less repetitive setup work.
+- **Tactical AI Flanking System:** EQS and Behavior Tree logic for dynamic positioning, line-of-sight, and decision support.
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>1. Tactical AI Flanking System (EQS)</h4>
-      <p>Implemented using Behavior Trees and Environment Query System (EQS). Agents dynamically calculate flanking vectors, line-of-sight, and cover considerations to encircle opponents in real-time.</p>
-      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/EQS%20Sample.gif?raw=true" width="100%" alt="EQS AI">
+      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/Building%20System%20Sample.gif?raw=true" width="100%" alt="Modular Building System">
     </td>
     <td width="50%" valign="top">
-      <h4>2. Modular Building System</h4>
-      <p>A State-Machine architecture driven centrally by the Main Widget handling the logic flow for mode transitions and making sure every object is valid. A child ConstructionMode Widget manages ghost actor collision validation and the Undo/Redo stack.</p>
-      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/Building%20System%20Sample.gif?raw=true" width="100%" alt="Building System">
+      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/CameraManager%20Sample.gif?raw=true" width="100%" alt="Universal Camera Manager">
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>3. Procedural Spline Tools</h4>
-      <p>Editor Utility for rapid Level Design. Uses Splines to drive procedural Instanced Static Mesh (ISM) placement. Includes a custom minecart spawner with fully exposed parameters for quick iteration.</p>
-      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/Spline%20Tool%20Sample.gif?raw=true" width="100%" alt="Spline Tool">
+      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/Spline%20Tool%20Sample.gif?raw=true" width="100%" alt="Procedural Spline Tools">
     </td>
     <td width="50%" valign="top">
-      <h4>4. Universal Camera Manager</h4>
-      <p>A modular <code>APlayerCameraManager</code> extension built with strict OOP encapsulation to ensure universal compatibility across different projects. Features predictive wall-trace occlusion, velocity smoothing, and weighted interest interpolation.</p>
-      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/CameraManager%20Sample.gif?raw=true" width="100%" alt="Camera System">
+      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/EQS%20Sample.gif?raw=true" width="100%" alt="Tactical AI Flanking System">
     </td>
   </tr>
 </table>
 
-#### 🎨 Tech Art & VFX
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>1. GPU-Accelerated Cellular Automata</h4>
-      <p>Simulates Conway's Game of Life entirely on the GPU using Niagara Simulation Stages. Demonstrates performant read/write operations on Grid2D collections.</p>
-      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/GameOfLife%20Sample.gif?raw=true" width="100%" alt="Niagara Game of Life">
-    </td>
-    <td width="50%" valign="top">
-      <h4>2. Gameplay VFX Showcase</h4>
-      <p>A Niagara attack sample demonstrating particle timing, ground alignment, and impact feedback. Designed to be visually distinct and readable for gameplay purposes.</p>
-      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/VFX%20Sample.gif?raw=true" width="100%" alt="Ice Attack VFX">
-    </td>
-  </tr>
-</table>
-
-#### 🧊 3D Modeling & Additional Works
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>⚙️ Mechanical Engineering</h4>
-      <p><b>Functional Prosthetic Assembly</b><br>
-      High-fidelity, print-ready mechanical model designed with accurate joint constraints. Commissioned engineering work.</p>
-      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/Prosthetic%20Sample.gif?raw=true" width="100%" alt="Prosthetic Arm">
-    </td>
-    <td width="33%" valign="top">
-      <h4>🔧 Modding</h4>
-      <p><b>Legacy Engine Injection</b><br>
-      Overcame the lack of documentation and rigid restrictions in engines like Ogre and Java. Solved invisible meshes, broken hierarchies, and file format issues with little to no official modding support.</p>
-      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/Kenshi%20Modding%20Sample.gif?raw=true" width="100%" alt="Kenshi Modding">
-    </td>
-    <td width="33%" valign="top">
-      <h4>📺 Render and Shaders pipeline in Blender</h4>
-      <p><b>Vaporwave Animation Loop</b><br>
-      High-fidelity looped animation focusing on retro-futuristic aesthetics. Demonstrates a strong grasp of composition, lighting, and style consistency.</p>
-      <img src="https://github.com/Gyropilot2/Gyropilot2/blob/main/Vaporwave%20Animation%20Sample.gif?raw=true" width="100%" alt="Blender Render">
-    </td>
-  </tr>
-</table>
+Different domain, same strengths: system design, logic, tooling, problem anticipation, and implementation that stays readable under pressure. I am strongest when I can bridge design intent with implementation reality and turn a messy requirement into a practical system people can actually use.
 
 ---
+
+## Experience Working With
+
+`Python` `TypeScript` `React` `FastAPI` `SQLite` `Git` `Unreal Engine 5` `Blueprints` `UMG` `Niagara` `Chaos` `Blender` `ComfyUI` `diffusion workflows` `LoRA evaluation`
+
+---
+
+If you want to talk about systems work, AI-assisted software development, tooling, or a role where I can help turn messy requirements into working software, reach out:
+
+**Email:** alisonskrinski@gmail.com  
+**LinkedIn:** [linkedin.com/in/alison-krinski](https://www.linkedin.com/in/alison-krinski)
